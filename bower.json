@@ -1,0 +1,23 @@
+{
+  "name": "libsassGruntLivereload",
+  "version": "0.1.0",
+  "homepage": "https://github.com/blackfalcon/libsassGruntLivereload",
+  "authors": [
+    "Dale Sande <dale.sande@gmail.com>"
+  ],
+  "description": "process Sass with libsass and Grunt",
+  "main": "Gruntfile.js",
+  "keywords": [
+    "libsass",
+    "grunt",
+    "livereload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
