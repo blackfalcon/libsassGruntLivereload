@@ -3,13 +3,14 @@ module.exports = function(grunt) {
     sass: {
       dist: {
         files: {
-          'stylesheets/app.css': 'sass/app.sass'
+          'stylesheets/app.css': 'sass/app.sass',
+          'stylesheets/other-app.css': 'sass/app.scss'
         }
       }
     },
     watch: {
       source: {
-        files: ['sass/**/*.sass'],
+        files: ['sass/**/*.sass', 'sass/**/*.scss'],
         tasks: ['sass'],
         options: {
           livereload: true
