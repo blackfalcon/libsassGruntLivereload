@@ -1,0 +1,9 @@
+{
+  "name": "libsassGruntLivereload",
+  "version": "0.1.0",
+  "description": "Bootstrap setup for running libsass and liverelad with Grunt watch",
+  "dependencies": {
+    "grunt-sass": "^0.14.0",
+    "node-sass": "^0.9.3"
+  }
+}
