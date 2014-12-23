@@ -1,4 +1,5 @@
 .DS_Store
 stylesheets/*.css
+stylesheets/*.css.map
 node_modules/
 
