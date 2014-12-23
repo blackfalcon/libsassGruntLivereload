@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Bootstrap setup for running libsass and liverelad with Grunt watch",
   "dependencies": {
-    "grunt-sass": "^0.14.0",
-    "node-sass": "^0.9.3",
+    "grunt-sass": "^0.17.0",
+    "node-sass": "^1.2.3",
     "grunt-contrib-watch": "^0.6.1"
   }
 }
